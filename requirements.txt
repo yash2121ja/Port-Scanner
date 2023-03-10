@@ -1,0 +1,6 @@
+concurrent.futures
+nmap
+openpyxl
+tqdm
+ipaddress
+socket
